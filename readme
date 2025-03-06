@@ -1,0 +1,22 @@
+# Happy Medium
+
+## Overview
+Happy Medium is a Rust-based reprisal of a project originally created in high school. The core idea behind this application is to help individuals maintain a balanced level of happiness.
+
+## Concept
+This innovative application leverages sentiment analysis to provide personalized emotional guidance. When a user is feeling low, Happy Medium offers uplifting support. Conversely, if a user is feeling excessively happy, the application gently nudges them back to a more balanced state.
+
+## Features
+- Sentiment analysis to assess user emotions
+- Personalized guidance based on mood
+- Rust-based implementation for performance and reliability
+
+## Installation & Usage
+
+
+## Contributing
+Contributions welcome! Reach out to: tyler-cady
+
+## License
+
+
